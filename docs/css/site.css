@@ -1,0 +1,10 @@
+@font-face {
+    font-family: "Martian Mono";
+    src: url('font/MartianMono-StdRg.woff2') format('woff2');
+		 
+}
+body {
+    padding-left: 1em;
+    padding-top: 1em;
+    font-family: "Martian Mono"
+}
